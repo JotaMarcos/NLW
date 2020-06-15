@@ -107,10 +107,7 @@ server.get("/create-point", (req, res) => {
 
      }) 
 
-
-
  })
-
 
  // Ligar o servidor4
  server.listen(3000)
